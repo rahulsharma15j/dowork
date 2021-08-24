@@ -44,7 +44,7 @@ const NavbarComponent = () => {
 
           <DropdownButton
             variant="outline-secondary"
-            title="Dropdown"
+            title="Search"
             id="input-group-dropdown-2"
             align="end"
           >
